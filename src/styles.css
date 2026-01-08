@@ -79,6 +79,7 @@ body {
 
 .status {
   margin-bottom: 10px;
+  font-size: 24px;
 }
 .game {
   display: flex;
